@@ -1,4 +1,4 @@
-# college_dashboard_ui
+# College Dashboard UI
 
 A new Flutter project.
 
